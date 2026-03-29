@@ -93,4 +93,4 @@ python compress_images.py ./portfolio --quality 95
 
 ## Licence
 
-Outil open source généré par opencode.
+Outil open source
